@@ -1,8 +1,8 @@
-from rest_framework import serializers
-from reviews.models import (Category, Genres, GenresTitle,
-                            Title, Review, Comments)
 from django.core.exceptions import ValidationError
 from django.utils import timezone
+from rest_framework import serializers
+from reviews.models import (Category, Comments, Genres, GenresTitle, Review,
+                            Title)
 
 
 class CategorySerializer(serializers.ModelSerializer):
