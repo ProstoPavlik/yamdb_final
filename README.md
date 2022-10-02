@@ -54,4 +54,4 @@ YaMDB отправляет письмо с кодом подтверждения
 
 > **http://51.250.30.199/redoc/**
 
-https://github.com/ProstoPavlik/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg
+![This is an image](https://github.com/ProstoPavlik/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
